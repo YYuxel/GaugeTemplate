@@ -12,3 +12,9 @@
 * Go to github page
 * Login als user "yucel.krtls@icloud.com"  and password "Ky2845.."
 * Verify the footer
+
+##SVGapp login
+*Go to "https://svgapp.de/login"
+*Enter username <kurtulus.yuecel@systemverification>
+*Enter password <Ky2845@@>
+*Click login button
