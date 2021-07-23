@@ -35,4 +35,5 @@ public class FindInFooter {
         Assert.assertTrue(elementTexts.contains("Privacy"));
 
     }
+
 }
